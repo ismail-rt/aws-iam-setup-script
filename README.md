@@ -100,6 +100,7 @@ The following mind map illustrates the AWS IAM architecture and components:
 
 For visual reference, please see the AWS IAM Architecture mind map created for this project.
 
+![AWS IAM Architecture mind map](https://drive.google.com/file/d/1MKjNRcmP7vVHtdyP4SIKRC6gDgY_K7eu/view)
 ## **Best Practices**
 
 - **Use MFA**: Enable Multi-Factor Authentication for all IAM users.
